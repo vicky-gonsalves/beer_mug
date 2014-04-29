@@ -1,4 +1,4 @@
-thirsty_mug
+Beer Mug
 ===========
 
 Socket Based Multiplayer game for Android
